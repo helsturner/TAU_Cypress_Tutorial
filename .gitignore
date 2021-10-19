@@ -107,6 +107,8 @@ dist
 node_modules/
 tests/cypress/screenshots/
 tests/cypress/videos/
+cypress/videos/
+cypress/screenshots/
 
 # Files
 .DS_Store
